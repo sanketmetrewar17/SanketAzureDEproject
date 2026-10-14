@@ -1,0 +1,15 @@
+{
+	"name": "sanketazuredatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fcceb94e-ee1d-426f-ac41-b79127b6794b",
+		"tenantId": "2d82c229-5082-4141-a574-39956707c579"
+	}
+}
